@@ -1,0 +1,59 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    /*    font-family: 'Raleway';*/
+    font-size: 16px;
+    /*background-color:#9EA738;*/
+    /*    background-image: url(../img/dust_scratches.png);*/
+}
+
+.mynav {
+    /*    background-color: #244209;*/
+    background-color: #26282c;
+
+    padding: 26px;
+}
+
+h2 {
+    color: darkgreen;
+}
+
+.mynav a {
+    color: white;
+}
+
+#agro {
+    height: 96px;
+    background-image: url(../img/myTomatoes.jpg);
+
+}
+
+/* Change the link color to #111 (black) on hover */
+
+li a:hover {
+    background-color: #a8a8a8;
+}
+
+/*li a {
+    padding-right:0px;
+}*/
+
+.myfooter {
+    color: white;
+    font-size: 0.7em;
+    padding-top: 15px;
+    background-color:#26282c;
+    /*    background-image: url(../img/spiration%20dark2.png);*/
+    opacity: 5;
+    /*background-color: gold;*/
+}
+
+.myfooter a {
+    color: white;
+    text-decoration-color: yellow;
+    text-decoration: underline;
+
+}
+
+/*.myfooter:hover {
+    opacity: 0.8;
+} */
